@@ -1,1 +1,1 @@
-Sitemap: https://jarrydmartin.com/exploration/sitemap.xml
+Sitemap: https://exploration.jarrydmartin.com/sitemap.xml
